@@ -28,6 +28,8 @@ var variableName type = value
 
 ## b) Using the ` := `
 
+The `:=` syntax is shorthand for declaring and initializing a variable. 
+
 ```go
 variableName := value
 ```
@@ -36,6 +38,7 @@ variableName := value
         1. Here Assignment is must.
         2. Can be used only inside function.
         3. When variables are declared but they are not been assigned initial values so they have default calues of their respective type.
+        4. Type of varibale is inferred from the value.
 
 
 
