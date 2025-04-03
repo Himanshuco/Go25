@@ -1,7 +1,8 @@
 # Go25
 Go language(2025).
 
-![Go image] (Assets/go.jpg)
+![Go image](Assets/go.jpg)
+
 
 # Notes :smile:
 Go is a **open source programming langauga** that makes it easy to build simple , reliable and efficient software.
